@@ -9,6 +9,7 @@ I am passionate about creating good web applications that will enrich the intern
 *   🌍  I'm based in Katowice Poland
 *   🖥️  See my portfolio at [My Portfolio](http://personal-portfolio-nine-orpin.vercel.app)
 *   ✉️  You can contact me at [jaroslaw.gad13@gmail.com](mailto:jaroslaw.gad13@gmail.com)
+*   🛠️  My main used technology is Next Js + Typescript 
 *   🧠  I'm learning NodeJs, GO
 *   🤝  I'm open to collaborating on Intresting web apps
 *   ⚡  Feel free to contact me
