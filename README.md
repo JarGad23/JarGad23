@@ -4,7 +4,7 @@ Hi 👋 My name is Jarosław Gad
 Web Developer and Designer
 --------------------------
 
-I am passionate about creating good web applications that will enrich the internet every day. I enjoy spending my time inventing and implementing new designs and functionalities to the projects I come up with. I am currently working using React + Typescript more precisely Next Js framework. I have been interested in web development for more than two years and have 9 months of professional work experience with it. I am currently creating fullstack applications to work as a software enginner in the future. I encourage you to take a look at my recent projects, and if you are interested, contact me and build something great.
+I am passionate about creating good web applications that will enrich the internet every day. I enjoy spending my time inventing and implementing new designs and functionalities to the projects I come up with. I am currently working using React + Typescript more precisely Next Js framework. I have been interested in web development for more than two years and have 1 year + of professional work experience with it. I am currently creating fullstack applications to work as a software enginner in the future. I encourage you to take a look at my recent projects, and if you are interested, contact me and build something great.
 
 *   🌍  I'm based in Katowice Poland
 *   🖥️  See my portfolio at [My Portfolio](http://personal-portfolio-nine-orpin.vercel.app)
